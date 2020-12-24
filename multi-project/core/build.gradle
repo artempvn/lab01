@@ -1,4 +1,4 @@
-apply plugin : 'java'
+apply plugin: 'java'
 
 dependencies {
     implementation files('../../lab01-util/build/libs/utils-1.3.5.jar')
