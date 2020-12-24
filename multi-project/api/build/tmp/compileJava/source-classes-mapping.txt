@@ -1,2 +1,0 @@
-by/artempvn/lab01/api/App.java
- by.artempvn.lab01.api.App

@@ -1,7 +1,7 @@
-apply plugin : 'java'
+apply plugin: 'java'
 apply plugin: 'application'
 mainClassName = "by.artempvn.lab01.api.App"
 
 dependencies {
-implementation project(':api')
+    implementation project(':api')
 }

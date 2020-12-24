@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="by.artempvn.lab01.util.StringUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-24T08:31:55" hostname="LAPTOP-J4204R8N" time="0.077">
-  <properties/>
-  <testcase name="isPositiveNumberTest()" classname="by.artempvn.lab01.util.StringUtilsTest" time="0.077"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
